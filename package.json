@@ -1,0 +1,27 @@
+{
+  "name": "quantumcss",
+  "version": "1.0.0",
+  "description": "QuantumCSS is a lightweight CSS framework built with SCSS for easy and efficient web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnishantgaharwar/QuantumCSS.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Nishant Gaharwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnishantgaharwar/QuantumCSS/issues"
+  },
+  "homepage": "https://github.com/iamnishantgaharwar/QuantumCSS#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.71.0"
+  }
+}
